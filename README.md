@@ -1,0 +1,1 @@
+# Task-5-Create-a-hybrid-model-for-stock-prediction-using-numerical-analysis-of-historical-price.
